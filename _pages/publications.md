@@ -1,11 +1,11 @@
 ---
+title: "Publication"
 layout: archive
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /publication.html
 ---
-Publications
 ======
 * (1) Xu Fan, and Fang Yang. "[Applications of spherical twist functors to Lie algebras associated to root categories of preprojective algebras](https://doi.org/10.1016/j.jalgebra.2023.02.005)."
 Journal of Algebra 622 (2023): 556-586.
