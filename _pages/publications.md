@@ -2,6 +2,8 @@ layout: archive
 title: "Publications and Preprints"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 Publications
 ======
