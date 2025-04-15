@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fang Yang Homepage"
+title: "Fang Yang"
 author_profile: true
 redirect_from: 
   - /about/
