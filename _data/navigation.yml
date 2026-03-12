@@ -9,13 +9,10 @@
 main:
   - title: "Research"
     url: /research/
-
   - title: "Talks"
-    url: /talks/        
-    
+    url: /talks/
   - title: "Travel"
-    url: /travel/    
-    
+    url: /travel/
  # - title: "Portfolio"
   #  url: /portfolio/
         
