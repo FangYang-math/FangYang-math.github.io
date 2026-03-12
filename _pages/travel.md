@@ -1,9 +1,11 @@
 ---
 layout: single
-title: "Conferences"
+title: "Travel"
 permalink: /travel/
 author_profile: true
 ---
+Conferences
+======
 * 2023.07, Tsinghua University, Beijing. "Geometric Representation Theory and Applications".
 * 2023.07, Bimsa, Beijing. "International Congress of Basic Science".
 * 2023.11, Beijing Normal University. "Algebraic Representation Theory".
