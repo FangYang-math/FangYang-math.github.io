@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
+Publications
+======
 * (1) with Xu Fan. "[Applications of spherical twist functors to Lie algebras associated to root categories of preprojective algebras](https://doi.org/10.1016/j.jalgebra.2023.02.005)."
 Journal of Algebra 622 (2023): 556-586.
 * (2) with Xiao Jie and Fan Xu. "[Motivic cluster multiplication formulas in 2-Calabi–Yau categories]( https://doi.org/10.1093/imrn/rnae220)." 
