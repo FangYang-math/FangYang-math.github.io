@@ -15,7 +15,7 @@ Preprints
 ======
 * (1) with Xu Fan. "Quantum cluster algebras associated to weighted projective lines." [arXiv :2207.02837](https://arxiv.org/abs/2207.02837).
 
-* (2) with Alessandro Contu, "Degenerations in graded quiver varieties and in derived categories of Dynkin quivers", [arXiv: 2602.23939] (https://arxiv.org/abs/2602.23939).
+* (2) with Alessandro Contu, "Degenerations in graded quiver varieties and in derived categories of Dynkin quivers", [arXiv: 2602.23939](https://arxiv.org/abs/2602.23939).
 
 * (3) with Olivier Schiffmann, KLR-Schur algebra of coherent sheaves on the projective line: Tilting and PBW bases, [arXiv: 2603.01265](https://arxiv.org/abs/2603.01265).
 
