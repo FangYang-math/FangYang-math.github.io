@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/
+permalink: /travel/
 author_profile: true
 ---
 Conferences
