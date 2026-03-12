@@ -6,12 +6,17 @@ author_profile: true
 redirect_from:
   - /publication.html
 ---
-* (1) Xu Fan, and Fang Yang. "[Applications of spherical twist functors to Lie algebras associated to root categories of preprojective algebras](https://doi.org/10.1016/j.jalgebra.2023.02.005)."
+* (1) with Xu Fan. "[Applications of spherical twist functors to Lie algebras associated to root categories of preprojective algebras](https://doi.org/10.1016/j.jalgebra.2023.02.005)."
 Journal of Algebra 622 (2023): 556-586.
-* (2) Xiao Jie, Fan Xu, and Fang Yang. "[Motivic cluster multiplication formulas in 2-Calabi–Yau categories]( https://doi.org/10.1093/imrn/rnae220)." 
+* (2) with Xiao Jie and Fan Xu. "[Motivic cluster multiplication formulas in 2-Calabi–Yau categories]( https://doi.org/10.1093/imrn/rnae220)." 
 International Mathematics Research Notices 2024.21 (2024): 13785-13807.
 
 Preprints
 ======
-* Xu Fan, and Fang Yang. "Quantum cluster algebras associated to weighted projective lines." [arXiv :2207.02837](https://arxiv.org/abs/2207.02837).
+* (1) with Xu Fan. "Quantum cluster algebras associated to weighted projective lines." [arXiv :2207.02837](https://arxiv.org/abs/2207.02837).
+
+* (2) with Alessandro Contu, "Degenerations in graded quiver varieties and in derived categories of Dynkin quivers", [arXiv: 2602.23939] (https://arxiv.org/abs/2602.23939).
+
+* (3) with Olivier Schiffmann, KLR-Schur algebra of coherent sheaves on the projective line: Tilting and PBW bases, [arXiv: 2603.01265](https://arxiv.org/abs/2603.01265).
+
 
