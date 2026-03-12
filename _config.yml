@@ -33,18 +33,18 @@ author:
 
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+#publication_category:
 #  books:
  #   title: 'Books'
- manuscripts:
-   title: 'Publication List'    
-conferences:
-   title: 'Preprints'
+ #manuscripts:
+  # title: 'Publication List'    
+#conferences:
+ #  title: 'Preprints'
 
 # Teaching category
-teaching_category:
-TA:
-  title: 'Assitant Teaching'
+#teaching_category:
+#TA:
+ # title: 'Assitant Teaching'
 
 
 # Site Settings
